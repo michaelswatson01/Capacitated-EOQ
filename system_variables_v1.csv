@@ -1,0 +1,4 @@
+total_hours,8736,total hours in a year (or time period)
+avail_regular_hours,4264,total hours of run-time available
+inv_holding_cost_percent,0.2,holding cost as a percent
+cost_of_set_up_hour,100,set up cost per hour
